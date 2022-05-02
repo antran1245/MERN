@@ -14,3 +14,4 @@ React
 - [first jsx](https://github.com/antran1245/MERN/tree/master/React/first_jsx)
 - [prop it up](https://github.com/antran1245/MERN/tree/master/React/prop_it_up)
 - [putting it together](https://github.com/antran1245/MERN/tree/master/React/putting_it_together)
+- [big inversion](https://github.com/antran1245/MERN/tree/master/React/big_inversion)
